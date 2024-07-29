@@ -1,0 +1,71 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Streamline your processes and boost productivity effortlessly in any industry.",
+        "title": "Elevate Your Workflow with Workliofer"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Streamline your processes and boost productivity effortlessly in any industry.",
+        "title": "Elevate Your Workflow with Workliofer"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Streamline your processes and boost productivity effortlessly in any industry.",
+        "title": "Elevate Your Workflow with Workliofer"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Streamline your processes and boost productivity effortlessly in any industry.",
+        "title": "Elevate Your Workflow with Workliofer"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Streamline your processes and boost productivity effortlessly in any industry.",
+        "title": "Elevate Your Workflow with Workliofer"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Streamline your processes and boost productivity effortlessly in any industry.",
+        "title": "Elevate Your Workflow with Workliofer"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Streamline your processes and boost productivity effortlessly in any industry.",
+        "title": "Elevate Your Workflow with Workliofer"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Streamline your processes and boost productivity effortlessly in any industry.",
+        "title": "Elevate Your Workflow with Workliofer"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Streamline your processes and boost productivity effortlessly in any industry.",
+        "title": "Elevate Your Workflow with Workliofer"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Elevate Your Workflow with Workliofer",
+  "subtitle": "Streamline your processes and boost productivity effortlessly in any industry."
+}
